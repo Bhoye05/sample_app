@@ -16,14 +16,16 @@
 require 'spec_helper'
 
 describe User do
-
-      
+     
   before(:each) do
     @attr = {
       :nom => "Utilisateur exemple",
       :email => "user@example.com",
       :password => "foobar",
-      :password_confirmation => "foobar"
+      :password_confirmation => "foobar",
+      :date_naissance => "00/00/0000",
+      :poids => 0,
+      :poids_ideal => 0
     }
   end
 
@@ -77,6 +79,24 @@ describe User do
 	user_with_duplicate_email.should_not be_valid
       end
  
+      #=============description de l'age=====================#
+      
+       it "devrait accepter un format de date valide" do
+	     dates = %w[00/00/0000 20/12/1950 12/08/2012]
+	     dates.each do |dates|
+	       valid_format_date = User.new(@attr.merge(:date_naissance => dates))
+	       valid_format_date.should be_valid
+	     end
+       end
+       
+       it "devrait rejetter un format de date non valide" do
+	     dates = %w[00-00-0000 20,12,1950 12;08;2012, 00*00*0000]
+	     dates.each do |dates|
+	       invalid_format_date = User.new(@attr.merge(:date_naissance => dates))
+	       invalid_format_date.should_not be_valid
+	     end
+       end
+             
       #=============description du mot de passe==============#
       describe "password validation" do
 	
@@ -147,6 +167,6 @@ describe User do
 	      matching_user = User.authenticate(@attr[:email], @attr[:password])
 	      matching_user.should == @user
 	    end
-       end
+       end	    
      end
 end

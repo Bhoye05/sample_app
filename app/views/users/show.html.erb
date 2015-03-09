@@ -8,8 +8,9 @@
     </td>
     <td class="sidebar round">
       <strong>Nom</strong> <%= @user.nom %><br />
-      <strong>URL</strong>  <%= link_to user_path(@user), @user %><br />
-      <strong>Age</strong> <%= @user.age %> <strong> ans </strong>
+      <strong>URL</strong> <%= link_to user_path(@user), @user %><br />
+      <strong>Age</strong> <%= @user.age %> <strong> ans </strong><br />
+      <strong>IMC</strong> <%= @user.calcule_imc %><strong> kg/m2 </strong><br />
     </td>
   </tr>
 </table>

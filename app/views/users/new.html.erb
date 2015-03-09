@@ -1,3 +1,63 @@
-<h1>Users#new</h1>
-<title>Inscription</title>
-<p>Trouver moi sur app/views/users/new.html.erb</p>
+<h1>Inscription</h1>
+
+ <%= form_for @user, :html => { :multipart => true }   do |f| %>
+
+  <%= render 'shared/error_messages' %>
+  <div class="field">
+    <%= f.label :nom, "Nom d'utilisateur *" %><br />
+    <%= f.text_field :nom %>
+  </div>
+  <div class="field">
+    <%= f.label :email, "Adresse mail *" %><br />
+    <%= f.text_field :email %>
+  </div>
+  <div class="field">
+    <%= f.label :password, "Mot de pass *" %><br />
+    <%= f.password_field :password %>
+  </div>
+  <div class="field">
+    <%= f.label :password_confirmation, "Confirmation *" %><br />
+    <%= f.password_field :password_confirmation %>
+  </div>
+  
+  <div class="field">
+    <%= f.label :date_naissance, "Date de naissance (jj/mm/aaaa) *" %><br />
+    <%= f.text_field :date_naissance %>
+  </div>
+  
+  <div class="field">
+    <%= f.label :taille, "Taille *" %><br />
+    <%= f.text_field :taille, type: "number", min: 1, max: 250 %>
+  </div>
+  
+  <div class="field">
+    <%= f.label :poids, "Poids *" %><br />
+    <%= f.text_field :poids, type: "number", min: 5 %>
+  </div>
+  
+  <div class="field">
+    <%= f.label :poids_ideal, "Poids ideal" %><br />
+    <%= f.password_field :poids_ideal, type: "number", min: 1 %>
+  </div>
+  
+  <div class="field">
+    <%= f.label :fais_regime, "Je fais un regime" %><br />
+    <%= f.check_box :fais_regime, :valeur_on=>1, :valeur_off=>0  %>
+  </div>
+  
+  <div class="field">
+    <%= f.label :aimerais_faire_regime, "je veux faire un regime" %><br />
+    <%= f.check_box :aimerais_faire_regime, :valeur_on=>1, :valeur_off=>0 %>
+  </div>
+  
+  <div class="field">
+      <%=f.label :attach, "Déposer votre cv (pdf/word)" %><br/>
+      <%= f.file_field :attach %>
+   </div>
+  
+  <div class="actions">
+    <%= f.submit "Inscription" %>
+  </div> 
+  
+<% end %>
+

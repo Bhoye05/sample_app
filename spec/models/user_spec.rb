@@ -4,13 +4,24 @@
 #
 # Table name: users
 #
-#  id                 :integer          not null, primary key
-#  nom                :string(255)
-#  email              :string(255)
-#  created_at         :datetime
-#  updated_at         :datetime
-#  encrypted_password :string(255)
-#  salt               :string(255)
+#  id                    :integer          not null, primary key
+#  nom                   :string(255)
+#  email                 :string(255)
+#  created_at            :datetime
+#  updated_at            :datetime
+#  encrypted_password    :string(255)
+#  salt                  :string(255)
+#  date_naissance        :string(255)
+#  age                   :float
+#  poids                 :float
+#  poids_ideal           :float
+#  fais_regime           :boolean
+#  aimerais_faire_regime :boolean
+#  taille                :float
+#  attach_file_name      :string(255)
+#  attach_content_type   :string(255)
+#  attach_file_size      :integer
+#  attach_updated_at     :datetime
 #
 
 require 'spec_helper'
@@ -25,7 +36,8 @@ describe User do
       :password_confirmation => "foobar",
       :date_naissance => "00/00/0000",
       :poids => 0,
-      :poids_ideal => 0
+      :poids_ideal => 0,
+      :taille => 150
     }
   end
 

@@ -1,0 +1,491 @@
+# Logfile created on 2015-03-06 23:08:36 +0100 by logger.rb/31641
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0"}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "document"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004f53080 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12456-1xetdai>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004a89090 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12460-5zchux>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x0000000515dab0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12465-11di805>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>""}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005ee2528 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12480-1pph4cr>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000048efc98 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12484-4vqy2n>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004f49b70 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12484-1h9ezue>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x0000000580f728 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12491-awtgdg>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005c438a8 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12491-b750gy>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005c72ea0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12813-15wo0a6>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003dc7c08 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150308-12813-qi86lf>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005fa6298 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12866-1i707er>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004143710 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12866-17n68f0>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005b183e8 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12891-3lwy6y>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003e46a30 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12891-wx03u>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005b77190 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12895-1akxvkx>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003e8dca0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12895-1viiefa>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x0000000464c388 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12951-1fgswum>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000002959f28 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12951-1mgqhvd>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000054adbc0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12955-ckktf9>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x0000000383d5a8 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-12955-11v0w1r>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000047cf160 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13001-1y2xc79>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000002a39420 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13001-1shtpm3>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005013c18 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13006-oedzv3>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000030187d8 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13006-lwr6m8>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000021df090 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13576-betyrl>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003c11d50 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13576-1kbfzq1>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000002d1d470 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13600-1hsp50l>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004ef0570 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13600-1k2mjs6>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000057cec78 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13683-6oymov>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003f733b8 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13683-1jpihwv>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000020b5fc0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13697-18pbi35>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000043b0908 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-13697-6y0d1i>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003564840 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14019-nzne92>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000042cf458 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14019-11a2itd>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000043413f0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14247-mylocd>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x0000000463f200 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14247-1ef9kan>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000036c5748 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14433-u6xgr9>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x0000000410c508 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14433-fz7rb4>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003b01c30 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14441-ugzmua>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000040c2160 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14441-13esowu>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005648728 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14448-4t40da>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000005de3618 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14448-1wb8dvm>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003429f20 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14503-1w8a83s>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000043e7980 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14503-waqbcu>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000042798a0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14510-ov0tcu>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004598b80 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14510-1tcv1xs>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000002d24630 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14543-1bjvsja>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004993cd0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14543-10djrpl>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"", "password"=>""}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET /signout with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/signout"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000002960300 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14550-1a4plf4>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000003e35e10 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14550-19rm8zi>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"", "password"=>""}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET /signout with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/signout"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004b13df8 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14615-1dz9qmy>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000002defc40 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14615-1v9gu6g>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x000000038c32e8 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14618-gk6ipx>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x0000000415bcc0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14618-1enzukm>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"", "password"=>""}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET /signout with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/signout"}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"", "email"=>"", "password"=>"", "password_confirmation"=>"", "date_naissance"=>"", "taille"=>"", "poids"=>"", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000002729dc0 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14639-utbyml>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET /signup with {} and HTTP headers {}
+REQUESTING PAGE: POST /users with {"utf8"=>"\xE2\x9C\x93", "user"=>{"nom"=>"Example User", "email"=>"user@example.com", "password"=>"foobar", "password_confirmation"=>"foobar", "date_naissance"=>"01/01/1980", "taille"=>"150", "poids"=>"50", "poids_ideal"=>"", "fais_regime"=>"0", "aimerais_faire_regime"=>"0", "attach"=>#<Rack::Test::UploadedFile:0x00000004ab2e68 @content_type=nil, @original_filename="caf.pdf", @tempfile=#<File:/tmp/caf.pdf20150309-14639-10buhqm>>}, "commit"=>"Inscription"} and HTTP headers {"HTTP_REFERER"=>"/signup"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/users"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"", "password"=>""}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET /signin with {} and HTTP headers {}
+REQUESTING PAGE: POST /sessions with {"utf8"=>"\xE2\x9C\x93", "session"=>{"email"=>"mhartl@example.com", "password"=>"foobar"}, "commit"=>"S'identifier"} and HTTP headers {"HTTP_REFERER"=>"/signin"}
+REQUESTING PAGE: GET http://www.example.com/users/1 with {} and HTTP headers {"HTTP_REFERER"=>"/sessions"}
+REQUESTING PAGE: GET /signout with {} and HTTP headers {"HTTP_REFERER"=>"http://www.example.com/users/1"}
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/signout"}

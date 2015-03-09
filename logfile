@@ -1,0 +1,33 @@
+
+#
+#en jouant les tests avec rspec spec/ ou avec autotest j'ai rencontré l'erreur suivante
+#
+
+rspec spec/
+/home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/activesupport-3.0.7/lib/active_support/dependencies.rb:235:in `load': /home/bhoye/Dropbox/rails_projects/sample_app/spec/models/user_spec.rb:20: invalid multibyte char (US-ASCII) (SyntaxError)
+/home/bhoye/Dropbox/rails_projects/sample_app/spec/models/user_spec.rb:20: invalid multibyte char (US-ASCII)
+/home/bhoye/Dropbox/rails_projects/sample_app/spec/models/user_spec.rb:20: syntax error, unexpected $end, expecting keyword_end
+  it "devrait créer une nouvelle instance dot�...
+                  ^
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/activesupport-3.0.7/lib/active_support/dependencies.rb:235:in `block in load'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/activesupport-3.0.7/lib/active_support/dependencies.rb:227:in `load_dependency'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/activesupport-3.0.7/lib/active_support/dependencies.rb:235:in `load'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/rspec-core-2.5.2/lib/rspec/core/configuration.rb:386:in `block in load_spec_files'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/rspec-core-2.5.2/lib/rspec/core/configuration.rb:386:in `map'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/rspec-core-2.5.2/lib/rspec/core/configuration.rb:386:in `load_spec_files'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/rspec-core-2.5.2/lib/rspec/core/command_line.rb:18:in `run'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/rspec-core-2.5.2/lib/rspec/core/runner.rb:55:in `run_in_process'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/rspec-core-2.5.2/lib/rspec/core/runner.rb:46:in `run'
+        from /home/bhoye/.rvm/gems/ruby-1.9.3-p551@rails3.0tutorial/gems/rspec-core-2.5.2/lib/rspec/core/runner.rb:10:in `block in autorun'
+bhoye@barry:~/Dropbox/rails_projects/sample_app$ 
+
+# pour la fixer il m'a fallu ajouter au debut du fichier les deux lignes "#!/bin/env ruby"  
+									 "# encoding: utf-8"
+pour que les caracteres utf-8 soient prisent en compte
+à noter que faire "gem install magic_encoding" peux aussi fixer l'erreur!
+
+
+#===============attacher un fichier===============================
+pour attacher un fichier pdf ou autres g utilisé
+has_attached_file :document
+validates_attachment :document, :content_type => { :content_type => %w(application/pdf application/msword application/vnd.openxmlformats-officedocument.wordprocessingml.document) }
